@@ -1,4 +1,6 @@
 ## Hi there 👋
+### i'm Karim AHABCHAN, an Electronics & Computer Engineering student at ENSEA,
+#### Should you ever wish to connect, please do not hesitate to contact me.
 
 <!--
 **ahabchan/ahabchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
