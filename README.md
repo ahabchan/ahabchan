@@ -1,5 +1,5 @@
 ## Hi there 👋
-### i'm Karim AHABCHAN, an Electronics & Computer Engineering student at ENSEA,
+### i'm Karim AHABCHAN, an Electronics & Computer Engineering student at ENSEA
 #### Should you ever wish to connect, please do not hesitate to contact me.
 
 <!--
